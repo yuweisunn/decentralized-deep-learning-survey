@@ -1,8 +1,9 @@
-# Decentralized Deep Learning for Multi-Access Edge Computing: A Survey on Communication Efficiency and Trustworthiness 
- 
-### Surveyed articles by subject areas
-  
-  
+# Decentralized Deep Learning for Multi-Access Edge Computing: A Survey on Communication Efficiency and Trustworthiness
+
+## Table of Contents: Surveyed articles by subject areas
+* [Data Privacy and Decentralized Deep Learning](#Data-Privacy-and-Decentralized-Deep-Learning)
+* [Communication Efficiency Under Edge Heterogeneity](#Communication-Efficiency-Under-Edge-Heterogeneity)
+* [Trustworthiness in Decentralized Deep Learning](#Trustworthiness-in-Decentralized-Deep-Learning)
 
 ## Data Privacy and Decentralized Deep Learning
 
